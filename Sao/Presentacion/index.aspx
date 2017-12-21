@@ -112,20 +112,18 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Servicio personalizado de transporte a Cualquier Punto de la Ciudad
-                                   
+		   					<h2>Servicio personalizado de transporte a Cualquier Punto de la Ciudad                               
 		   					</h2>
 		   					<p><a href="#" class="btn btn-primary btn-lg">Empezar</a></p>
 		   				</div>
 		   			</div>
 		   		</div>
 		   	</li>
-		   	<li style="background-image: url(images/slide_2.jpg);">
+		   	<li style="background-image: url(images/slide_21.jpg);">
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Brindando Calidad, Puntualidad y Seguridad a nuestros Clientes</h2>
-		   					
+		   					<h2>Brindando Calidad, Puntualidad y Seguridad a nuestros Clientes</h2>   					
 		   				</div>
 		   			</div>
 		   		</div>
@@ -137,28 +135,33 @@
 	<div id="fh5co-why-us" class="animate-box">
 		<div class="container">
 			<div class="row">
+
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Why Choose Us</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+					<h2>Por qué elegirnos</h2>
+					<p>En Radio Móvil SAO nuestro compromiso es con el cliente, brindándole un servicio de calidad con personal altamente calificado y seleccionado. Trasladándolo de manera segura y profesional a su destino.</p>
 				</div>
+
 				<div class="col-md-4 text-center item-block">
 					<span class="icon"><img src="images/30.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-					<h3>Strategy</h3>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+					<h3>Seguridad</h3>
+					<p>Todos nuestros vehículos cuentan con los mayores estándares de seguridad, Además de un alto nivel en confort, cada vehículo con su respectiva Viñeta de identificación, logotipo de la empresa y numero de contacto del Radio Móvil.</p>
 					<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
 				</div>
+
+                <div class="col-md-4 text-center item-block">
+					<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+					<h3>Comodidad</h3>
+					<p>Desplázate cómodamente por los mejores lugares de la ciudad en cualquier momento y desde cualquier lugar ya que brindamos un servicio de Atención al Cliente disponibles las 24 horas al día, los 365 días del año.</p>
+					<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
+				</div>
+
 				<div class="col-md-4 text-center item-block">
 					<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-					<h3>Explore</h3>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+					<h3>Servicio</h3>
+					<p>Choferes expertos y discretos, preparados para satisfacer sus necesidades ante viajes, con los cuales se sentirá cómodo en todo momento y tendrá la tranquilidad de llegar siempre a tiempo a su destino con la máxima seguridad.</p>
 					<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
 				</div>
-				<div class="col-md-4 text-center item-block">
-					<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-					<h3>Expertise</h3>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
-					<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
-				</div>
+                		
 			</div>
 		</div>
 	</div>
