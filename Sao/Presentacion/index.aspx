@@ -171,9 +171,10 @@
 		
 		<img src="images/image_1.jpg" alt="" class="img-responsive">
 		<div class="fh5co-box animate-box">
-			<h2>Forward Thinking</h2>
-			<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
-			<p><a href="#" class="btn btn-primary btn-outline with-arrow">Get started <i class="icon-arrow-right"></i></a></p>
+			<h2>Pide tu taxi por la línea de Whatsapp</h2>
+			<p>Sabemos que Whatsapp te ha facilitado la vida, es una herramienta que usas a diario para comunicarte de forma rápida y sencilla. Es por eso que ahora Radio Móvil SAO tiene un numero de fácil recordación que funciona por medio de un Call Center en el que puedes pedir tu servicio de Taxi de manera fácil y practica</p>
+			<p>
+                <a  href="http://api.whatsapp.com/send?phone=59170048620&amp;text=hola,%20necesito%20un%20radio%20movil" target="_blank" data-content="http://api.whatsapp.com/send?phone=59170048620&amp;text=hola,%20necesito%20un%20radio%20movil" class="btn btn-primary btn-outline with-arrow"> 70048620 <i class="icon-arrow-right"></i></a></p>
 		</div>
 		
 	</div>
@@ -254,61 +255,6 @@
 		</div>
 		
 		
-	</div>
-	
-
-	<div id="fh5co-blog" class="animate-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Latest <em>from</em> Blog</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				</div>
-			</div>
-		</div>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4">
-					<a class="fh5co-entry" href="#">
-						<figure>
-						<img src="images/image_1.jpg" alt="Free Website Template, Free HTML5 Bootstrap Template" class="img-responsive">
-						</figure>
-						<div class="fh5co-copy">
-							<h3>We Create Awesome Free Templates</h3>
-							<span class="fh5co-date">June 8, 2016</span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4">
-					<a class="fh5co-entry" href="#">
-						<figure>
-						<img src="images/image_2.jpg" alt="Free Website Template, Free HTML5 Bootstrap Template" class="img-responsive">
-						</figure>
-						<div class="fh5co-copy">
-							<h3>Handcrafted Using CSS3 &amp; HTML5</h3>
-							<span class="fh5co-date">June 8, 2016</span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4">
-					<a class="fh5co-entry" href="#">
-						<figure>
-						<img src="images/image_3.jpg" alt="Free Website Template, Free HTML5 Bootstrap Template" class="img-responsive">
-						</figure>
-						<div class="fh5co-copy">
-							<h3>We Try To Update The Site Everyday</h3>
-							<span class="fh5co-date">June 8, 2016</span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-12 text-center">
-					<p><a href="#" class="btn btn-primary btn-outline with-arrow">View More Posts <i class="icon-arrow-right"></i></a></p>
-				</div>
-			</div>
-		</div>	
 	</div>
 
 	<div class="fh5co-cta" style="background-image: url(images/image_3.jpg);">
