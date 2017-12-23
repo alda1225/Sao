@@ -171,7 +171,7 @@
 		
 		<img src="images/image_1.jpg" alt="" class="img-responsive">
 		<div class="fh5co-box animate-box">
-			<h2>Pide tu taxi por la línea de Whatsapp</h2>
+			<h2>Pide tu taxi por Whatsapp</h2>
 			<p>Sabemos que Whatsapp te ha facilitado la vida, es una herramienta que usas a diario para comunicarte de forma rápida y sencilla. Es por eso que ahora Radio Móvil SAO tiene un numero de fácil recordación que funciona por medio de un Call Center en el que puedes pedir tu servicio de Taxi de manera fácil y practica</p>
 			<p>
                 <a  href="http://api.whatsapp.com/send?phone=59170048620&amp;text=hola,%20necesito%20un%20radio%20movil" target="_blank" data-content="http://api.whatsapp.com/send?phone=59170048620&amp;text=hola,%20necesito%20un%20radio%20movil" class="btn btn-primary btn-outline with-arrow"> 70048620 <i class="icon-arrow-right"></i></a></p>
@@ -179,38 +179,7 @@
 		
 	</div>
 
-	<div id="fh5co-testimonial" class="animate-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Happy Clients</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				</div>
-				<div class="col-md-4 text-center item-block">
-					<blockquote>
-						<p>&ldquo; She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of. &rdquo;</p>
-						<p><span class="fh5co-author"><cite>Jason Davidson</cite></span><i class="icon twitter-color icon-twitter pull-right"></i></p>
-
-					</blockquote>
-				</div>
-				<div class="col-md-4 text-center item-block">
-					<blockquote>
-						<p>&ldquo; Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. She had a last view back on the skyline of her hometown Bookmarksgrove, the headline of. &rdquo;</p>
-						<p><span class="fh5co-author"><cite>Kyle Smith</cite></span><i class="icon googleplus-color icon-google-plus pull-right"></i></p>
-					</blockquote>
-				</div>
-				<div class="col-md-4 text-center item-block">
-						
-					<blockquote>
-						<p>&ldquo; The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. S	he had a last view back on the skyline of her hometown Bookmarksgrove. &rdquo;</p>
-						<p><span class="fh5co-author"><cite>Rick Cook</cite></span><i class="icon facebook-color icon-facebook pull-right"></i></p>
-					</blockquote>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div id="fh5co-grid-products" class="animate-box">
+		<div id="fh5co-grid-products" class="animate-box">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
@@ -255,6 +224,23 @@
 		</div>
 		
 		
+	</div>
+	
+
+	<div id="fh5co-blog" class="animate-box">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+					<h2>Latest <em>from</em> Blog</h2>
+					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				
+			</div>
+		</div>	
 	</div>
 
 	<div class="fh5co-cta" style="background-image: url(images/image_3.jpg);">
@@ -329,5 +315,4 @@
 
 	</body>
 </html>
-
 
