@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="Presentacion.index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Presentacion.index" %>
 
 <!DOCTYPE html>
 
@@ -76,12 +76,10 @@
 
 				<nav role="navigation">
 					<ul>
-						<li><a href="products.html">Products</a></li>
-						<li><a href="services.html">Services</a></li>
-						<li><a href="pricing.html">Pricing</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="contact.html">Contact</a></li>
-						<li class="cta"><a href="#">Get started</a></li>
+						<li class="active"><a href="Index.aspx">INICIO</a></li>
+						<li><a href="Servicios.aspx">SERVICIOS</a></li>
+						<li><a href="Nosotros.aspx">NOSOTROS</a></li>
+						<li><a href="Contacto.aspx">CONTÁCTANOS</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -94,6 +92,7 @@
 			<ul class="slides">
 
 		   	<li style="background-image: url(images/slide_1.jpg);">
+              <div class="overlay"> 
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
@@ -106,9 +105,11 @@
 		   				</div>
 		   			</div>
 		   		</div>
+              </div>
 		   	</li>
 
 		   	<li style="background-image: url(images/slide_3.jpg);">
+              <div class="overlay"> 
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
@@ -118,8 +119,10 @@
 		   				</div>
 		   			</div>
 		   		</div>
+               </div>
 		   	</li>
 		   	<li style="background-image: url(images/slide_21.jpg);">
+              <div class="overlay"> 
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
@@ -127,6 +130,7 @@
 		   				</div>
 		   			</div>
 		   		</div>
+              </div>
 		   	</li>
 		  	</ul>
 	  	</div>
@@ -145,21 +149,18 @@
 					<span class="icon"><img src="images/30.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
 					<h3>Seguridad</h3>
 					<p>Todos nuestros vehículos cuentan con los mayores estándares de seguridad, Además de un alto nivel en confort, cada vehículo con su respectiva Viñeta de identificación, logotipo de la empresa y numero de contacto del Radio Móvil.</p>
-					<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
 				</div>
 
                 <div class="col-md-4 text-center item-block">
 					<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
 					<h3>Comodidad</h3>
 					<p>Desplázate cómodamente por los mejores lugares de la ciudad en cualquier momento y desde cualquier lugar ya que brindamos un servicio de Atención al Cliente disponibles las 24 horas al día, los 365 días del año.</p>
-					<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
 				</div>
 
 				<div class="col-md-4 text-center item-block">
 					<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
 					<h3>Servicio</h3>
 					<p>Choferes expertos y discretos, preparados para satisfacer sus necesidades ante viajes, con los cuales se sentirá cómodo en todo momento y tendrá la tranquilidad de llegar siempre a tiempo a su destino con la máxima seguridad.</p>
-					<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
 				</div>
                 		
 			</div>
@@ -183,40 +184,39 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Awesome Products</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+					<h2><strong>Algunos de nuestros Servicios</strong></h2>
 				</div>
 			</div>
 		</div>
 
 		
 		<div class="col-1">
-			<a href="#" class="item-grid one" style="background-image: url(images/image_4.jpg)">
+			<a href="#" class="item-grid one" style="background-image: url(images/ser1.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/9.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-						<h3 class="title">Geographical App</h3>
-						<h5 class="category">Web Application</h5>
+						<span class="icon"><img src="images/car.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<h3 class="title">Servicio Escolar</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para llevar o recoger a tus hijos de Clases</h5>
 					</div>
 				</div>
 			</a>
-			<a href="#" class="item-grid three" style="background-image: url(images/image_3.jpg)">
+			<a href="#" class="item-grid three" style="background-image: url(images/ser3.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-						<h3 class="title">Communication App</h3>
-						<h5 class="category">Web Application</h5>
+						<span class="icon"><img src="images/car.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<h3 class="title">Compras en Farmacias y Supermercados</h3>
+						<h5 class="category">Solicita un Móvil Sao, Para </h5>
 					</div>
 				</div>
 			</a>
 		</div>
 		<div class="col-2">
-			<a href="#" class="item-grid two" style="background-image: url(images/image_2.jpg)">
+			<a href="#" class="item-grid two" style="background-image: url(images/ser2.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-						<h3 class="title">Golf Club Tracker</h3>
-						<h5 class="category">Web Application</h5>
+						<span class="icon"><img src="images/car.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<h3 class="title">City Tours</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para conocer los mejores lugares de la Ciudad</h5>
 					</div>
 				</div>
 			</a>
@@ -228,26 +228,14 @@
 	
 
 	<div id="fh5co-blog" class="animate-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Latest <em>from</em> Blog</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				</div>
-			</div>
-		</div>
-		<div class="container">
-			<div class="row">
-				
-			</div>
-		</div>	
+		
 	</div>
 
 	<div class="fh5co-cta" style="background-image: url(images/image_3.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="col-md-12 text-center animate-box">
-				<h3>We Try To Update The Site Everyday</h3>
+				<h3>Servicio las 24 horas del día los 365 días del año ininterrumpidamente.</h3>
 				<p><a href="#" class="btn btn-primary btn-outline with-arrow">Get started now! <i class="icon-arrow-right"></i></a></p>
 			</div>
 		</div>
@@ -258,29 +246,32 @@
 	
 		<div class="container">
 			<div class="col-md-3 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>About Us</h3>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+				<h3>ACERCA DE NOSOTROS</h3>
+				<p>Nacimos para servirle y ofrecerle un conjunto de servicios que sean de su total beneficio y productividad sobre todo siendo fieles guardianes de su integridad, pues nuestros chóferes manejan con el más minucioso cuidado pues saben que trasladan vidas humanas muy valiosas y conducen con RESPONSABILIDAD y sensibilidad a la vida Humana. </p>
 				<p><a href="#" class="btn btn-primary btn-outline with-arrow btn-sm">I'm button <i class="icon-arrow-right"></i></a></p>
 			</div>
 			<div class="col-md-6 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>Our Services</h3>
+				<h3>Nuestros Servicios</h3>
 				<ul class="float">
-					<li><a href="#">Web Design</a></li>
-					<li><a href="#">Branding &amp; Identity</a></li>
-					<li><a href="#">Free HTML5</a></li>
-					<li><a href="#">HandCrafted Templates</a></li>
+					<li><a href="#">Servicio de puerta a puerta </a></li>
+					<li><a href="#">Servicio de mensajería</a></li>
+					<li><a href="#">Servicio escolar</a></li>
+					<li><a href="#">Servicio con ticket (para empresas)</a></li>
+                    <li><a href="#">Envíos de sobres, cartas</a></li>
+                    <li><a href="#">Envíos de Regalos, tarjetas, cartas de cobranzas</a></li>
 				</ul>
 				<ul class="float">
-					<li><a href="#">Free Bootstrap Template</a></li>
-					<li><a href="#">Free HTML5 Template</a></li>
-					<li><a href="#">Free HTML5 &amp; CSS3 Template</a></li>
-					<li><a href="#">HandCrafted Templates</a></li>
+					<li><a href="#">Servicio por hora </a></li>
+					<li><a href="#">City Tours </a></li>
+					<li><a href="#">Compras en Farmacias y supermercados</a></li>
+					<li><a href="#">Compra de Alimentos y abarrotes</a></li>
+                    <li><a href="#">Compras en Pastelería,  restaurantes</a></li>
 				</ul>
 
 			</div>
 
 			<div class="col-md-2 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>Follow Us</h3>
+				<h3>SÍGUENOS</h3>
 				<ul class="fh5co-social">
 					<li><a href="#"><i class="icon-twitter"></i></a></li>
 					<li><a href="#"><i class="icon-facebook"></i></a></li>

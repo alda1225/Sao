@@ -21,6 +21,18 @@ body {
   height: 100%;
   position: relative;
 }
+/*----------------NUEVO--------------*/
+.slides li .overlay
+{
+    background: rgba(0, 0, 0, 0.4);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    position: absolute;
+    z-index: 1;
+
+}
 #logo
 {
     float:left;
@@ -29,6 +41,7 @@ body {
 {
     padding:5px;
 }
+/*--------------FIN-NUEVO------------*/
 a {
   color: #00B906;
   -webkit-transition: 0.5s;
@@ -203,6 +216,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+      font-size: 25px;
 }
 .btn.with-arrow i {
   visibility: hidden;
@@ -605,6 +619,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-heading h2 {
   margin-bottom: 20px;
+      font-size: 37px;
 }
 
 .fh5co-section-with-image {
@@ -956,7 +971,6 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-blog {
-  padding: 7em 0;
   position: relative;
   clear: both;
   background: #f7f7f7;

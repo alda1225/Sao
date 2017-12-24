@@ -10,6 +10,6 @@
 namespace Presentacion {
     
     
-    public partial class Default {
+    public partial class Contacto {
     }
 }
