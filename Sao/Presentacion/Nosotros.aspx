@@ -111,8 +111,9 @@
 
 	<div class="fh5co-about animate-box">
 		<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-			<h2>Company History</h2>
-			<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove. </p>
+			<h2>¿QUIENES SOMOS?</h2>
+			<p>Somos una empresa comprometida con la integridad de nuestros clientes, siendo conformados por un grupo de profesionales altamente capacitados y siendo comprobados a nivel de valores con características esenciales de RESPONSABILIDAD, HONRADEZ Y DISCIPLINA, porque desde que nacimos sabíamos que ofrecer el Servicio de RADIO MOVIL implicaría un deber que sin estos tres valores ya mencionados serian un servicio nulo y vacío pues cada vida de nuestros clientes no tendrían el valor total que equivale para nosotros su integridad, por ello que solo ofrecemos y ofreceremos la mejor alternativa para que usted disfrute de sus Reuniones y llegue con bien a su lugar de destino. </p>
+            <p>Nacimos para servirle y ofrecerle un conjunto de servicios que sean de su total beneficio y productividad sobre todo siendo fieles guardianes de su integridad, pues nuestros chóferes manejan con el más minucioso cuidado pues saben que trasladan vidas humanas muy valiosas y conducen con RESPONSABILIDAD y sensibilidad a la vida Humana.</p>
 		</div>	
 		<div class="container">
 			<div class="col-md-12">
