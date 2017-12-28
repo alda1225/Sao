@@ -236,7 +236,7 @@
 		<div class="container">
 			<div class="col-md-12 text-center animate-box">
 				<h3>Servicio las 24 horas del día los 365 días del año ininterrumpidamente.</h3>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow">Get started now! <i class="icon-arrow-right"></i></a></p>
+				<p><a href="Contacto.aspx" class="btn btn-primary btn-outline with-arrow">Contactanos <i class="icon-arrow-right"></i></a></p>
 			</div>
 		</div>
 	</div>
@@ -248,7 +248,7 @@
 			<div class="col-md-3 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 				<h3>ACERCA DE NOSOTROS</h3>
 				<p>Nacimos para servirle y ofrecerle un conjunto de servicios que sean de su total beneficio y productividad sobre todo siendo fieles guardianes de su integridad, pues nuestros chóferes manejan con el más minucioso cuidado pues saben que trasladan vidas humanas muy valiosas y conducen con RESPONSABILIDAD y sensibilidad a la vida Humana. </p>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow btn-sm">I'm button <i class="icon-arrow-right"></i></a></p>
+				<p><a href="Nosotros.aspx" class="btn btn-primary btn-outline with-arrow btn-sm">Ver mas...<i class="icon-arrow-right"></i></a></p>
 			</div>
 			<div class="col-md-6 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 				<h3>Nuestros Servicios</h3>
@@ -282,7 +282,7 @@
 			
 			
 			<div class="col-md-12 fh5co-copyright text-center">
-				<p>&copy; 2016 Free HTML5 template. All Rights Reserved. <span>Designed with <i class="icon-heart"></i> by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Colored Icons by <a href="https://dribbble.com/TrinhHo" target="_blank">Trinh Ho</a> Demo Images by <a href="http://unsplash.com/" target="_blank">Unsplash</a></span></p>	
+				<p>&copy; 2017 Radio Movil SAO| Todos los Derechos Reservados <span>Deseñado por <i class="icon-heart"></i> by <a href="http://freehtml5.co/" target="_blank">A-J./a> Colored Icons by <a href="https://dribbble.com/TrinhHo" target="_blank">Trinh Ho</a> Demo Images by <a href="http://unsplash.com/" target="_blank">Unsplash</a></span></p>	
 			</div>
 			
 		</div>
