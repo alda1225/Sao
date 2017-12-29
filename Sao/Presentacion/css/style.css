@@ -22,6 +22,14 @@ body {
   position: relative;
 }
 /*----------------NUEVO--------------*/
+.solo-jon{
+   width: 50%;
+ }
+ @media screen and (max-width: 990px) {
+  .solo-jon{
+    width: 100%;
+  }
+}
 .slides li .overlay
 {
     background: rgba(0, 0, 0, 0.4);

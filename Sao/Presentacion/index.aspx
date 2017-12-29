@@ -205,7 +205,7 @@
 					<div class="v-align-middle">
 						<span class="icon"><img src="images/car.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
 						<h3 class="title">Compras en Farmacias y Supermercados</h3>
-						<h5 class="category">Solicita un Móvil Sao, Para </h5>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar tus compras en Farmacias y Supermercados con envio hasta la puerta de su casa</h5>
 					</div>
 				</div>
 			</a>

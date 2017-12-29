@@ -115,136 +115,136 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>See our products</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+					<h2>SERVICIOS PERSONALIZADOS DE TRANSPORTE</h2>
+					<p>Solicita un Móvil Sao, Para </p>
 				</div>
 			</div>
 		</div>
 
 		
 		<div class="col-1">
-			<a href="#" class="item-grid one" style="background-image: url(images/image_4.jpg)">
+			<a href="#" class="item-grid one" style="background-image: url(images/ser1.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
 						<span class="icon"><img src="images/9.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-						<h3 class="title">Geographical App</h3>
-						<h5 class="category">Web Application</h5>
+						<h3 class="title">Servicio de puerta a puerta</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para</h5>
 					</div>
 				</div>
 			</a>
-			<a href="#" class="item-grid three" style="background-image: url(images/image_3.jpg)">
+			<a href="#" class="item-grid three" style="background-image: url(images/ser2.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
 						<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-						<h3 class="title">Communication App</h3>
-						<h5 class="category">Web Application</h5>
+						<h3 class="title">Servicio de Mensajeria</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para </h5>
 					</div>
 				</div>
 			</a>
 		</div>
 		<div class="col-2">
-			<a href="#" class="item-grid two" style="background-image: url(images/image_2.jpg)">
+			<a href="#" class="item-grid two" style="background-image: url(images/ser3.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
 						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-						<h3 class="title">Golf Club Tracker</h3>
-						<h5 class="category">Web Application</h5>
+						<h3 class="title">Servicio Escolar</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para llevar o recoger a tus hijos de Clases</h5>
 					</div>
 				</div>
 			</a>
 		</div>
 
-
-
-
 		<div class="col-1 reverse">
-			<a href="#" class="item-grid one" style="background-image: url(images/image_4.jpg)">
+			<a href="#" class="item-grid one" style="background-image: url(images/ser4.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
 						<span class="icon"><img src="images/9.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-						<h3 class="title">Geographical App</h3>
-						<h5 class="category">Web Application</h5>
+						<h3 class="title">Servicios con ticket (Para Empresas)</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para</h5>
 					</div>
 				</div>
 			</a>
-			<a href="#" class="item-grid three" style="background-image: url(images/image_3.jpg)">
+			<a href="#" class="item-grid three" style="background-image: url(images/ser5.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
 						<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-						<h3 class="title">Communication App</h3>
-						<h5 class="category">Web Application</h5>
+						<h3 class="title">Servicio por Hora</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para un servicio de transporte por tiempo indefinido</h5>
 					</div>
 				</div>
 			</a>
 		</div>
 		<div class="col-2 reverse">
-			<a href="#" class="item-grid two" style="background-image: url(images/image_2.jpg)">
+			<a href="#" class="item-grid two" style="background-image: url(images/ser6.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
 						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-						<h3 class="title">Golf Club Tracker</h3>
-						<h5 class="category">Web Application</h5>
+						<h3 class="title">City Tours</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para conocer los mejores lugares de la Ciudad</h5>
 					</div>
 				</div>
 			</a>
 		</div>
-		
-		
+
+        <div class="col-1">
+			<a href="#" class="item-grid one" style="background-image: url(images/ser7.jpg)">
+				<div class="v-align">
+					<div class="v-align-middle">
+						<span class="icon"><img src="images/9.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<h3 class="title">Compras en Farmacias y Supermercados</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar tus compras en Farmacias y Supermercados, con envio hasta la puerta de su casa</h5>
+					</div>
+				</div>
+			</a>
+			<a href="#" class="item-grid three" style="background-image: url(images/ser8.jpg)">
+				<div class="v-align">
+					<div class="v-align-middle">
+						<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<h3 class="title">Compra de alimentos y abarrotes</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar tus compras de alimentos y abarrotes, con envio hasta la puerta de su casa</h5>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="col-2">
+			<a href="#" class="item-grid two" style="background-image: url(images/ser9.jpg)">
+				<div class="v-align">
+					<div class="v-align-middle">
+						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<h3 class="title">Compras en pastelerias y retaurantes</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar tus compras en pastelerias y retaurantes, con envio hasta la puerta de su casa</h5>
+					</div>
+				</div>
+			</a>
+		</div>
+
+		<div class="col-2">
+			<a href="#" class="item-grid two" style="background-image: url(images/ser10.jpg)">
+				<div class="v-align">
+					<div class="v-align-middle">
+						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<h3 class="title">Envios de sobres, cartas</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar el envio de sobres y cartas hasta la puerta del destinario</h5>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="col-2 reverse">
+			<a href="#" class="item-grid two" style="background-image: url(images/ser11.jpg)">
+				<div class="v-align">
+					<div class="v-align-middle">
+						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<h3 class="title">Envios de Regalos, tarjetas, cartas de Cobranzas</h3>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar el envio de egalos, tarjetas, cartas de Cobranzas hasta la puerta del destinario</h5>
+					</div>
+				</div>
+			</a>
+		</div>
 	</div>
 	
 
 	<div id="fh5co-blog" class="animate-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-					<h2>Latest <em>from</em> Blog</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				</div>
-			</div>
-		</div>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-4">
-					<a class="fh5co-entry" href="#">
-						<figure>
-						<img src="images/image_1.jpg" alt="Free Website Template, Free HTML5 Bootstrap Template" class="img-responsive">
-						</figure>
-						<div class="fh5co-copy">
-							<h3>We Create Awesome Free Templates</h3>
-							<span class="fh5co-date">June 8, 2016</span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4">
-					<a class="fh5co-entry" href="#">
-						<figure>
-						<img src="images/image_2.jpg" alt="Free Website Template, Free HTML5 Bootstrap Template" class="img-responsive">
-						</figure>
-						<div class="fh5co-copy">
-							<h3>Handcrafted Using CSS3 &amp; HTML5</h3>
-							<span class="fh5co-date">June 8, 2016</span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4">
-					<a class="fh5co-entry" href="#">
-						<figure>
-						<img src="images/image_3.jpg" alt="Free Website Template, Free HTML5 Bootstrap Template" class="img-responsive">
-						</figure>
-						<div class="fh5co-copy">
-							<h3>We Try To Update The Site Everyday</h3>
-							<span class="fh5co-date">June 8, 2016</span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-12 text-center">
-					<p><a href="#" class="btn btn-primary btn-outline with-arrow">View More Posts <i class="icon-arrow-right"></i></a></p>
-				</div>
-			</div>
-		</div>	
+		
 	</div>
 
 	<div class="fh5co-cta" style="background-image: url(images/image_3.jpg);">
