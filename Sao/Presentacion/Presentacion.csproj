@@ -54,7 +54,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="aprueba.aspx" />
     <Content Include="Contacto.aspx" />
     <Content Include="css\animate.css" />
     <Content Include="css\bootstrap.css" />
@@ -73,8 +72,9 @@
     <Content Include="images\7.svg" />
     <Content Include="images\8.svg" />
     <Content Include="images\9.svg" />
-    <Content Include="images\car.svg" />
+    <Content Include="images\slide_4.jpg" />
     <Content Include="images\image_1.jpg" />
+    <Content Include="images\car.svg" />
     <Content Include="images\image_2.jpg" />
     <Content Include="images\image_3.jpg" />
     <Content Include="images\image_4.jpg" />
@@ -115,13 +115,6 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="aprueba.aspx.cs">
-      <DependentUpon>aprueba.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="aprueba.aspx.designer.cs">
-      <DependentUpon>aprueba.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Contacto.aspx.cs">
       <DependentUpon>Contacto.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

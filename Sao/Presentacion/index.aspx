@@ -6,25 +6,20 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Bold &mdash; Free HTML5 Bootstrap Website Template by FreeHTML5.co</title>
+	<title>Radio movil SAO</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FreeHTML5.co" />
+	<meta name="description" content="Radio movil SAO" />
+	<meta name="keywords" content="Radio movil SAO" />
+	<meta name="author" content="AGB" />
 
-  <!-- 
-	//////////////////////////////////////////////////////
+  <!-- //////////////////////////////////////////////////////
 
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FreeHTML5.co
+	Pagina web - Radio movil SAO
+	DESIGNED & DEVELOPED by AGB
 		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
+	Email: 			aldairguzman1225@gmail.com
 
-	//////////////////////////////////////////////////////
-	 -->
+	////////////////////////////////////////////////////// -->
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -37,8 +32,8 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-	<link rel="shortcut icon" href="favicon.ico">
+	<!-- Place logo.png and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="logo.png">
 
 	<!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'> -->
 	
@@ -146,19 +141,19 @@
 				</div>
 
 				<div class="col-md-4 text-center item-block">
-					<span class="icon"><img src="images/30.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+					<span class="icon"><img src="images/30.svg" alt="image" class="img-responsive"></span>
 					<h3>Seguridad</h3>
 					<p>Todos nuestros vehículos cuentan con los mayores estándares de seguridad, Además de un alto nivel en confort, cada vehículo con su respectiva Viñeta de identificación, logotipo de la empresa y numero de contacto del Radio Móvil.</p>
 				</div>
 
                 <div class="col-md-4 text-center item-block">
-					<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+					<span class="icon"><img src="images/27.svg" alt="image" class="img-responsive"></span>
 					<h3>Comodidad</h3>
 					<p>Desplázate cómodamente por los mejores lugares de la ciudad en cualquier momento y desde cualquier lugar ya que brindamos un servicio de Atención al Cliente disponibles las 24 horas al día, los 365 días del año.</p>
 				</div>
 
 				<div class="col-md-4 text-center item-block">
-					<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+					<span class="icon"><img src="images/18.svg" alt="image" class="img-responsive"></span>
 					<h3>Servicio</h3>
 					<p>Choferes expertos y discretos, preparados para satisfacer sus necesidades ante viajes, con los cuales se sentirá cómodo en todo momento y tendrá la tranquilidad de llegar siempre a tiempo a su destino con la máxima seguridad.</p>
 				</div>
@@ -191,19 +186,19 @@
 
 		
 		<div class="col-1">
-			<a href="#" class="item-grid one" style="background-image: url(images/ser1.jpg)">
+			<a href="#" class="item-grid one" style="background-image: url(images/ser3.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/car.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/car.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Servicio Escolar</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para llevar o recoger a tus hijos de Clases</h5>
 					</div>
 				</div>
 			</a>
-			<a href="#" class="item-grid three" style="background-image: url(images/ser3.jpg)">
+			<a href="#" class="item-grid three" style="background-image: url(images/ser7.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/car.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/car.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Compras en Farmacias y Supermercados</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar tus compras en Farmacias y Supermercados con envio hasta la puerta de su casa</h5>
 					</div>
@@ -211,10 +206,10 @@
 			</a>
 		</div>
 		<div class="col-2">
-			<a href="#" class="item-grid two" style="background-image: url(images/ser2.jpg)">
+			<a href="#" class="item-grid two" style="background-image: url(images/ser6.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/car.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/car.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">City Tours</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para conocer los mejores lugares de la Ciudad</h5>
 					</div>
@@ -240,7 +235,6 @@
 			</div>
 		</div>
 	</div>
-
 	
 	<footer id="fh5co-footer" role="contentinfo">
 	
@@ -282,11 +276,12 @@
 			
 			
 			<div class="col-md-12 fh5co-copyright text-center">
-				<p>&copy; 2017 Radio Movil SAO| Todos los Derechos Reservados <span>Deseñado por <i class="icon-heart"></i> by <a href="http://freehtml5.co/" target="_blank">A-J./a> Colored Icons by <a href="https://dribbble.com/TrinhHo" target="_blank">Trinh Ho</a> Demo Images by <a href="http://unsplash.com/" target="_blank">Unsplash</a></span></p>	
+				<p>&copy; 2017 Radio Movil SAO| Todos los Derechos Reservados </p>	
 			</div>
 			
 		</div>
 	</footer>
+
 	</div>
 	
 	

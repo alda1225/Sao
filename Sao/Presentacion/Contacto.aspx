@@ -11,25 +11,20 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Bold &mdash; Free HTML5 Bootstrap Website Template by FreeHTML5.co</title>
+	<title>Radio movil SAO</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FreeHTML5.co" />
+	<meta name="description" content="Radio movil SAO" />
+	<meta name="keywords" content="Radio movil SAO" />
+	<meta name="author" content="AGB" />
 
-  <!-- 
-	//////////////////////////////////////////////////////
+ <!-- //////////////////////////////////////////////////////
 
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FreeHTML5.co
+	Pagina web - Radio movil SAO
+	DESIGNED & DEVELOPED by AGB
 		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
+	Email: 			aldairguzman1225@gmail.com
 
-	//////////////////////////////////////////////////////
-	 -->
+	////////////////////////////////////////////////////// -->
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -42,8 +37,8 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-	<link rel="shortcut icon" href="favicon.ico">
+	<!-- Place logo.png and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="logo.png">
 
 	<!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'> -->
 	
@@ -94,13 +89,12 @@
 	<aside id="fh5co-hero" clsas="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
-		   	<li style="background-image: url(images/slide_3.jpg);">
+		   	<li style="background-image: url(images/slide_4.jpg);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Get in touch. Don't be shy.</h2>
-		   					<p class="fh5co-lead">Designed with <i class="icon-heart"></i> by the fine folks at <a href="http://freehtml5.co" target="_blank">FreeHTML5.co</a></p>
+		   					<h2>Radio Movil SAO Atencion las 24 horas.</h2>
 		   				</div>
 		   			</div>
 		   		</div>
@@ -115,27 +109,27 @@
 				<div class="col-md-3">
 					<h3>Contact Info.</h3>
 					<ul class="contact-info">
-						<li><i class="icon-map"></i>198 West 21th Street, Suite 721 New York NY 10016</li>
-						<li><i class="icon-phone"></i>+ 1235 2355 98</li>
-						<li><i class="icon-envelope"></i><a href="#">info@yoursite.com</a></li>
-						<li><i class="icon-globe"></i><a href="#">www.yoursite.com</a></li>
+						<li><i class="icon-map"></i>Zona La Colorada Calle Taquirari #4070 Santa Cruz de la Sierra</li>
+						<li><i class="icon-phone"></i>3 3557070</li>
+						<li><i class="icon-envelope"></i><a href="#">hfls100@msn.com</a></li>
+						<li><i class="icon-globe"></i><a href="https://www.radiomovilsao.com">www.radiomovilsao.com</a></li>
 					</ul>
 				</div>
 				<div class="col-md-8 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
 					<div class="row">
 						<div class="col-md-6">
 							<div class="form-group">
-								<input class="form-control" placeholder="Name" type="text">
+								<input class="form-control" placeholder="Nombre" type="text">
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="form-group">
-								<input class="form-control" placeholder="Email" type="text">
+								<input class="form-control" placeholder="Correo" type="text">
 							</div>
 						</div>
 						<div class="col-md-12">
 							<div class="form-group">
-								<textarea name="" class="form-control" id="" cols="30" rows="7" placeholder="Message"></textarea>
+								<textarea name="" class="form-control" id="" cols="30" rows="7" placeholder="Mensaje"></textarea>
 							</div>
 						</div>
 						<div class="col-md-12">
@@ -155,29 +149,32 @@
 	
 		<div class="container">
 			<div class="col-md-3 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>About Us</h3>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow btn-sm">I'm button <i class="icon-arrow-right"></i></a></p>
+				<h3>ACERCA DE NOSOTROS</h3>
+				<p>Nacimos para servirle y ofrecerle un conjunto de servicios que sean de su total beneficio y productividad sobre todo siendo fieles guardianes de su integridad, pues nuestros chóferes manejan con el más minucioso cuidado pues saben que trasladan vidas humanas muy valiosas y conducen con RESPONSABILIDAD y sensibilidad a la vida Humana. </p>
+				<p><a href="Nosotros.aspx" class="btn btn-primary btn-outline with-arrow btn-sm">Ver mas...<i class="icon-arrow-right"></i></a></p>
 			</div>
 			<div class="col-md-6 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>Our Services</h3>
+				<h3>Nuestros Servicios</h3>
 				<ul class="float">
-					<li><a href="#">Web Design</a></li>
-					<li><a href="#">Branding &amp; Identity</a></li>
-					<li><a href="#">Free HTML5</a></li>
-					<li><a href="#">HandCrafted Templates</a></li>
+					<li><a href="#">Servicio de puerta a puerta </a></li>
+					<li><a href="#">Servicio de mensajería</a></li>
+					<li><a href="#">Servicio escolar</a></li>
+					<li><a href="#">Servicio con ticket (para empresas)</a></li>
+                    <li><a href="#">Envíos de sobres, cartas</a></li>
+                    <li><a href="#">Envíos de Regalos, tarjetas, cartas de cobranzas</a></li>
 				</ul>
 				<ul class="float">
-					<li><a href="#">Free Bootstrap Template</a></li>
-					<li><a href="#">Free HTML5 Template</a></li>
-					<li><a href="#">Free HTML5 &amp; CSS3 Template</a></li>
-					<li><a href="#">HandCrafted Templates</a></li>
+					<li><a href="#">Servicio por hora </a></li>
+					<li><a href="#">City Tours </a></li>
+					<li><a href="#">Compras en Farmacias y supermercados</a></li>
+					<li><a href="#">Compra de Alimentos y abarrotes</a></li>
+                    <li><a href="#">Compras en Pastelería,  restaurantes</a></li>
 				</ul>
 
 			</div>
 
 			<div class="col-md-2 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>Follow Us</h3>
+				<h3>SÍGUENOS</h3>
 				<ul class="fh5co-social">
 					<li><a href="#"><i class="icon-twitter"></i></a></li>
 					<li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -188,11 +185,12 @@
 			
 			
 			<div class="col-md-12 fh5co-copyright text-center">
-				<p>&copy; 2016 Free HTML5 template. All Rights Reserved. <span>Designed with <i class="icon-heart"></i> by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Colored Icons by <a href="https://dribbble.com/TrinhHo" target="_blank">Trinh Ho</a> Demo Images by <a href="http://unsplash.com/" target="_blank">Unsplash</a></span></p>	
+				<p>&copy; 2017 Radio Movil SAO| Todos los Derechos Reservados </p>	
 			</div>
 			
 		</div>
 	</footer>
+
 	</div>
 	
 	

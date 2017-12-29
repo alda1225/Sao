@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
@@ -45,7 +45,7 @@ audio:not([controls]) {
 }
 
 [hidden],
-template {
+alt="image" {
   display: none;
 }
 
@@ -364,13 +364,15 @@ figure {
 img {
   vertical-align: middle;
 }
-
-.img-responsive {
+/********************************************************************/
+.img-responsive 
+{
   display: block;
   max-width: 100%;
+  width: 100%;
   height: auto;
 }
-
+/**************************************************************************/
 .img-rounded {
   border-radius: 6px;
 }

@@ -11,25 +11,20 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Bold &mdash; Free HTML5 Bootstrap Website Template by FreeHTML5.co</title>
+	<title>Radio movil SAO</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FreeHTML5.co" />
+	<meta name="description" content="Radio movil SAO" />
+	<meta name="keywords" content="Radio movil SAO" />
+	<meta name="author" content="AGB" />
 
-  <!-- 
-	//////////////////////////////////////////////////////
+  <!-- //////////////////////////////////////////////////////
 
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FreeHTML5.co
+	Pagina web - Radio movil SAO
+	DESIGNED & DEVELOPED by AGB
 		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
+	Email: 			aldairguzman1225@gmail.com
 
-	//////////////////////////////////////////////////////
-	 -->
+	////////////////////////////////////////////////////// -->
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -42,8 +37,8 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-	<link rel="shortcut icon" href="favicon.ico">
+	<!-- Place logo.png and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="logo.png">
 
 	<!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'> -->
 	
@@ -99,8 +94,7 @@
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Who We Are</h2>
-		   					<p class="fh5co-lead">Designed with <i class="icon-heart"></i> by the fine folks at <a href="http://freehtml5.co" target="_blank">FreeHTML5.co</a></p>
+		   					<h2>SOMOS UNA EMPRESA QUE SE DEDICA AL SERVICIO DE TAXI DESDE EL AÑO 2011</h2>
 		   				</div>
 		   			</div>
 		   		</div>
@@ -118,15 +112,10 @@
 		<div class="container">
 			<div class="col-md-12">
 				<figure>
-					<img src="images/image_1.jpg" alt="Free HTML5 Template" class="img-responsive">
+					<img src="images/image_1.jpg" alt="image" class="img-responsive">
 				</figure>
 			</div>
-			<div class="col-md-8 col-md-push-4">
-				<h2>A Startup Company</h2>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
-
-			</div>
+			
 		</div>
 	</div>
 
@@ -135,11 +124,11 @@
 			
 				<div class="row">
 					<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-						<h2>The Team</h2>
+						<h2>Nuestro Equipo</h2>
 						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="images/person3.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<img src="images/person3.jpg" alt="image" class="img-responsive">
 						<h3>Athan Smith</h3>
 						<h4>Co-Founder, CEO</h4>
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
@@ -152,7 +141,7 @@
 						</ul>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="images/person2.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<img src="images/person2.jpg" alt="image" class="img-responsive">
 						<h3>Nathalie Kosley</h3>
 						<h4>Co-Founder, CTO</h4>
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
@@ -165,7 +154,7 @@
 						</ul>
 					</div>
 					<div class="col-md-4 fh5co-staff">
-						<img src="images/person4.jpg" alt="Free HTML5 Bootstrap Template" class="img-responsive">
+						<img src="images/person4.jpg" alt="image" class="img-responsive">
 						<h3>Yanna Kuzuki</h3>
 						<h4>Co-Founder, Principal</h4>
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
@@ -186,27 +175,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading animate-box">
-					<h2>Our pleasure to serve you</h2>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+					<h2>NOSOTROS</h2>
 				</div>
-				<div class="col-md-4 text-center item-block animate-box">
+				<div class="col-md-4 text-center item-block animate-box solo-jon">
 					<span class="icon"><img src="images/30.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-					<h3>Strategy</h3>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
-					<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
+					<h3>MISION</h3>
+					<p> Ofrecer un servicio de taxi a través de una central telefónica brindando calidad, puntualidad y seguridad a nuestros clientes satisfaciendo su necesidades de traslado</p>
 				</div>
-				<div class="col-md-4 text-center item-block animate-box">
+				<div class="col-md-4 text-center item-block animate-box solo-jon">
 					<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-					<h3>Explore</h3>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
-					<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
+					<h3>VISION</h3>
+					<p>Ser reconocidos como la empresa de taxi que brinda el mejor servicio por la calidad, puntualidad y seguridad; y por las unidades con el mejor estado de conservación. Ofreciendo: Amplia experiencia y conocimientos de las necesidades de los usuarios. Atención personalizada</p>
 				</div>
-				<div class="col-md-4 text-center item-block animate-box">
-					<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
-					<h3>Expertise</h3>
-					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
-					<p><a href="#" class="btn btn-primary btn-outline with-arrow">Learn more <i class="icon-arrow-right"></i></a></p>
-				</div>
+
 			</div>
 		</div>
 	</div>
@@ -215,39 +196,42 @@
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="col-md-12 text-center animate-box">
-				<h3>We Try To Update The Site Everyday</h3>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow">Get started now! <i class="icon-arrow-right"></i></a></p>
+				<h3>Servicio las 24 horas del día los 365 días del año ininterrumpidamente.</h3>
+				<p><a href="Contacto.aspx" class="btn btn-primary btn-outline with-arrow">Contactanos <i class="icon-arrow-right"></i></a></p>
 			</div>
 		</div>
 	</div>
 	
-	<footer id="fh5co-footer" role="contentinfo">
+		<footer id="fh5co-footer" role="contentinfo">
 	
 		<div class="container">
 			<div class="col-md-3 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>About Us</h3>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow btn-sm">I'm button <i class="icon-arrow-right"></i></a></p>
+				<h3>ACERCA DE NOSOTROS</h3>
+				<p>Nacimos para servirle y ofrecerle un conjunto de servicios que sean de su total beneficio y productividad sobre todo siendo fieles guardianes de su integridad, pues nuestros chóferes manejan con el más minucioso cuidado pues saben que trasladan vidas humanas muy valiosas y conducen con RESPONSABILIDAD y sensibilidad a la vida Humana. </p>
+				<p><a href="Nosotros.aspx" class="btn btn-primary btn-outline with-arrow btn-sm">Ver mas...<i class="icon-arrow-right"></i></a></p>
 			</div>
 			<div class="col-md-6 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>Our Services</h3>
+				<h3>Nuestros Servicios</h3>
 				<ul class="float">
-					<li><a href="#">Web Design</a></li>
-					<li><a href="#">Branding &amp; Identity</a></li>
-					<li><a href="#">Free HTML5</a></li>
-					<li><a href="#">HandCrafted Templates</a></li>
+					<li><a href="#">Servicio de puerta a puerta </a></li>
+					<li><a href="#">Servicio de mensajería</a></li>
+					<li><a href="#">Servicio escolar</a></li>
+					<li><a href="#">Servicio con ticket (para empresas)</a></li>
+                    <li><a href="#">Envíos de sobres, cartas</a></li>
+                    <li><a href="#">Envíos de Regalos, tarjetas, cartas de cobranzas</a></li>
 				</ul>
 				<ul class="float">
-					<li><a href="#">Free Bootstrap Template</a></li>
-					<li><a href="#">Free HTML5 Template</a></li>
-					<li><a href="#">Free HTML5 &amp; CSS3 Template</a></li>
-					<li><a href="#">HandCrafted Templates</a></li>
+					<li><a href="#">Servicio por hora </a></li>
+					<li><a href="#">City Tours </a></li>
+					<li><a href="#">Compras en Farmacias y supermercados</a></li>
+					<li><a href="#">Compra de Alimentos y abarrotes</a></li>
+                    <li><a href="#">Compras en Pastelería,  restaurantes</a></li>
 				</ul>
 
 			</div>
 
 			<div class="col-md-2 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>Follow Us</h3>
+				<h3>SÍGUENOS</h3>
 				<ul class="fh5co-social">
 					<li><a href="#"><i class="icon-twitter"></i></a></li>
 					<li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -258,7 +242,7 @@
 			
 			
 			<div class="col-md-12 fh5co-copyright text-center">
-				<p>&copy; 2016 Free HTML5 template. All Rights Reserved. <span>Designed with <i class="icon-heart"></i> by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Colored Icons by <a href="https://dribbble.com/TrinhHo" target="_blank">Trinh Ho</a> Demo Images by <a href="http://unsplash.com/" target="_blank">Unsplash</a></span></p>	
+				<p>&copy; 2017 Radio Movil SAO| Todos los Derechos Reservados </p>	
 			</div>
 			
 		</div>

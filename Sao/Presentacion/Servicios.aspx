@@ -11,25 +11,20 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Bold &mdash; Free HTML5 Bootstrap Website Template by FreeHTML5.co</title>
+	<title>Radio movil SAO</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by FreeHTML5.co" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FreeHTML5.co" />
+	<meta name="description" content="Radio movil SAO" />
+	<meta name="keywords" content="Radio movil SAO" />
+	<meta name="author" content="AGB" />
 
-  <!-- 
-	//////////////////////////////////////////////////////
+ <!-- //////////////////////////////////////////////////////
 
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FreeHTML5.co
+	Pagina web - Radio movil SAO
+	DESIGNED & DEVELOPED by AGB
 		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
+	Email: 			aldairguzman1225@gmail.com
 
-	//////////////////////////////////////////////////////
-	 -->
+	////////////////////////////////////////////////////// -->
 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -42,8 +37,8 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-	<link rel="shortcut icon" href="favicon.ico">
+	<!-- Place logo.png and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="logo.png">
 
 	<!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'> -->
 	
@@ -94,13 +89,12 @@
 	<aside id="fh5co-hero" clsas="js-fullheight">
 		<div class="flexslider js-fullheight">
 			<ul class="slides">
-		   	<li style="background-image: url(images/slide_3.jpg);">
+		   	<li style="background-image: url(images/slide_31.jpg);">
 		   		<div class="overlay-gradient"></div>
 		   		<div class="container">
 		   			<div class="col-md-10 col-md-offset-1 text-center js-fullheight slider-text">
 		   				<div class="slider-text-inner">
-		   					<h2>Our Awesome Products</h2>
-		   					<p class="fh5co-lead">Designed with <i class="icon-heart"></i> by the fine folks at <a href="http://freehtml5.co" target="_blank">FreeHTML5.co</a></p>
+		   					<h2>Servicio personalizado de transporte a Cualquier Punto de la Ciudad</h2>
 		   				</div>
 		   			</div>
 		   		</div>
@@ -126,16 +120,16 @@
 			<a href="#" class="item-grid one" style="background-image: url(images/ser1.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/9.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/9.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Servicio de puerta a puerta</h3>
-						<h5 class="category">Solicita un Radio Móvil Sao, Para</h5>
+						<h5 class="category">Solicita un Radio Móvil Sao, Para:</h5>
 					</div>
 				</div>
 			</a>
 			<a href="#" class="item-grid three" style="background-image: url(images/ser2.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/18.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Servicio de Mensajeria</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para </h5>
 					</div>
@@ -146,7 +140,7 @@
 			<a href="#" class="item-grid two" style="background-image: url(images/ser3.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/27.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Servicio Escolar</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para llevar o recoger a tus hijos de Clases</h5>
 					</div>
@@ -158,7 +152,7 @@
 			<a href="#" class="item-grid one" style="background-image: url(images/ser4.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/9.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/9.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Servicios con ticket (Para Empresas)</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para</h5>
 					</div>
@@ -167,7 +161,7 @@
 			<a href="#" class="item-grid three" style="background-image: url(images/ser5.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/18.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Servicio por Hora</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para un servicio de transporte por tiempo indefinido</h5>
 					</div>
@@ -178,7 +172,7 @@
 			<a href="#" class="item-grid two" style="background-image: url(images/ser6.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/27.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">City Tours</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para conocer los mejores lugares de la Ciudad</h5>
 					</div>
@@ -190,7 +184,7 @@
 			<a href="#" class="item-grid one" style="background-image: url(images/ser7.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/9.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/9.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Compras en Farmacias y Supermercados</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar tus compras en Farmacias y Supermercados, con envio hasta la puerta de su casa</h5>
 					</div>
@@ -199,7 +193,7 @@
 			<a href="#" class="item-grid three" style="background-image: url(images/ser8.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/18.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/18.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Compra de alimentos y abarrotes</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar tus compras de alimentos y abarrotes, con envio hasta la puerta de su casa</h5>
 					</div>
@@ -210,7 +204,7 @@
 			<a href="#" class="item-grid two" style="background-image: url(images/ser9.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/27.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Compras en pastelerias y retaurantes</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar tus compras en pastelerias y retaurantes, con envio hasta la puerta de su casa</h5>
 					</div>
@@ -222,7 +216,7 @@
 			<a href="#" class="item-grid two" style="background-image: url(images/ser10.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/27.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Envios de sobres, cartas</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar el envio de sobres y cartas hasta la puerta del destinario</h5>
 					</div>
@@ -233,7 +227,7 @@
 			<a href="#" class="item-grid two" style="background-image: url(images/ser11.jpg)">
 				<div class="v-align">
 					<div class="v-align-middle">
-						<span class="icon"><img src="images/27.svg" alt="Free HTML5 Templates" class="img-responsive"></span>
+						<span class="icon"><img src="images/27.svg" alt="image" class="img-responsive"></span>
 						<h3 class="title">Envios de Regalos, tarjetas, cartas de Cobranzas</h3>
 						<h5 class="category">Solicita un Radio Móvil Sao, Para realizar el envio de egalos, tarjetas, cartas de Cobranzas hasta la puerta del destinario</h5>
 					</div>
@@ -247,44 +241,46 @@
 		
 	</div>
 
-	<div class="fh5co-cta" style="background-image: url(images/image_3.jpg);">
+		<div class="fh5co-cta" style="background-image: url(images/image_3.jpg);">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="col-md-12 text-center animate-box">
-				<h3>We Try To Update The Site Everyday</h3>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow">Get started now! <i class="icon-arrow-right"></i></a></p>
+				<h3>Servicio las 24 horas del día los 365 días del año ininterrumpidamente.</h3>
+				<p><a href="Contacto.aspx" class="btn btn-primary btn-outline with-arrow">Contactanos <i class="icon-arrow-right"></i></a></p>
 			</div>
 		</div>
 	</div>
-
 	
 	<footer id="fh5co-footer" role="contentinfo">
 	
 		<div class="container">
 			<div class="col-md-3 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>About Us</h3>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-				<p><a href="#" class="btn btn-primary btn-outline with-arrow btn-sm">I'm button <i class="icon-arrow-right"></i></a></p>
+				<h3>ACERCA DE NOSOTROS</h3>
+				<p>Nacimos para servirle y ofrecerle un conjunto de servicios que sean de su total beneficio y productividad sobre todo siendo fieles guardianes de su integridad, pues nuestros chóferes manejan con el más minucioso cuidado pues saben que trasladan vidas humanas muy valiosas y conducen con RESPONSABILIDAD y sensibilidad a la vida Humana. </p>
+				<p><a href="Nosotros.aspx" class="btn btn-primary btn-outline with-arrow btn-sm">Ver mas...<i class="icon-arrow-right"></i></a></p>
 			</div>
 			<div class="col-md-6 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>Our Services</h3>
+				<h3>Nuestros Servicios</h3>
 				<ul class="float">
-					<li><a href="#">Web Design</a></li>
-					<li><a href="#">Branding &amp; Identity</a></li>
-					<li><a href="#">Free HTML5</a></li>
-					<li><a href="#">HandCrafted Templates</a></li>
+					<li><a href="#">Servicio de puerta a puerta </a></li>
+					<li><a href="#">Servicio de mensajería</a></li>
+					<li><a href="#">Servicio escolar</a></li>
+					<li><a href="#">Servicio con ticket (para empresas)</a></li>
+                    <li><a href="#">Envíos de sobres, cartas</a></li>
+                    <li><a href="#">Envíos de Regalos, tarjetas, cartas de cobranzas</a></li>
 				</ul>
 				<ul class="float">
-					<li><a href="#">Free Bootstrap Template</a></li>
-					<li><a href="#">Free HTML5 Template</a></li>
-					<li><a href="#">Free HTML5 &amp; CSS3 Template</a></li>
-					<li><a href="#">HandCrafted Templates</a></li>
+					<li><a href="#">Servicio por hora </a></li>
+					<li><a href="#">City Tours </a></li>
+					<li><a href="#">Compras en Farmacias y supermercados</a></li>
+					<li><a href="#">Compra de Alimentos y abarrotes</a></li>
+                    <li><a href="#">Compras en Pastelería,  restaurantes</a></li>
 				</ul>
 
 			</div>
 
 			<div class="col-md-2 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
-				<h3>Follow Us</h3>
+				<h3>SÍGUENOS</h3>
 				<ul class="fh5co-social">
 					<li><a href="#"><i class="icon-twitter"></i></a></li>
 					<li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -295,7 +291,7 @@
 			
 			
 			<div class="col-md-12 fh5co-copyright text-center">
-				<p>&copy; 2016 Free HTML5 template. All Rights Reserved. <span>Designed with <i class="icon-heart"></i> by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Colored Icons by <a href="https://dribbble.com/TrinhHo" target="_blank">Trinh Ho</a> Demo Images by <a href="http://unsplash.com/" target="_blank">Unsplash</a></span></p>	
+				<p>&copy; 2017 Radio Movil SAO| Todos los Derechos Reservados </p>	
 			</div>
 			
 		</div>
