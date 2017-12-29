@@ -72,6 +72,7 @@
     <Content Include="images\7.svg" />
     <Content Include="images\8.svg" />
     <Content Include="images\9.svg" />
+    <Content Include="images\slide_3.jpg" />
     <Content Include="images\slide_4.jpg" />
     <Content Include="images\image_1.jpg" />
     <Content Include="images\car.svg" />
@@ -97,7 +98,6 @@
     <Content Include="images\ser9.jpg" />
     <Content Include="images\slide_1.jpg" />
     <Content Include="images\slide_21.jpg" />
-    <Content Include="images\slide_3.jpg" />
     <Content Include="images\slide_31.jpg" />
     <Content Include="Index.aspx" />
     <Content Include="js\bootstrap.min.js" />
